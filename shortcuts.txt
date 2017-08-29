@@ -1,0 +1,13 @@
+ctr + r
+ctr p + @ + function name...
+ctrl + d
+ctrl + k + b
+ctrl + shift + d
+alt + shift + 1 to 4 (cols)
+alt + shift + 5 (4 pans)
+ctrl + alt + p (switch b/w projects)
+crl + shift + f (find and replace)
+ctrl + shift + p (sort, permute, shuffle, unique)
+ctrl + alt + a (alignment)
+ctrl + shift + c (colorpicker)
+ctrl + shift + g (emmet style HTML eg: div.hello.animated*2>ul>li*4>a.[href="www.google.com" target=_blank].redirect)
